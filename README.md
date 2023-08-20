@@ -1,12 +1,10 @@
-[![MasterHead](https://drive.google.com/file/d/1bGiS2BLCDT82kRvWZqvIiharN3kiRsGZ/view?usp=sharing)](https://rishavchanda.io)
+[![MasterHead](http://drive.google.com/uc?export=view&id=1bGiS2BLCDT82kRvWZqvIiharN3kiRsGZ)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Nahian Kamal Pritom</h1>
 <h3 align="center">A passionate SQA Engineer and tech enthusiast from Bangladesh</h3>
 
-<img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/1AYPBXpimHs69J7NBsy8gKzE2RpX_S438/view?usp=sharing">
+<img align="right" alt="Coding" width="200" src="http://drive.google.com/uc?export=view&id=1Rx-n0JxbfjHCjq9QlVPF2bY6-jdYxJ1g">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nahianpritom&label=Profile%20views&color=0e75b6&style=flat" alt="nahianpritom" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NahianPritom" alt="NahianPritom" /></a> </p>
 
 - 🌱 I’m currently learning **Vulnerability Assessment and Penetration Testing**
 
@@ -31,3 +29,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nahianpritom&show_icons=true&locale=en&layout=compact" alt="nahianpritom" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nahianpritom&show_icons=true&locale=en" alt="nahianpritom" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nahianpritom&label=Profile%20views&color=0e75b6&style=flat" alt="nahianpritom" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NahianPritom" alt="NahianPritom" /></a> </p>
